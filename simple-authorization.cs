@@ -1,4 +1,4 @@
-# projects C#
+# projects C# Поле авторизации пользователя
 
 int triesCount = 5;
 string password = "123456";
